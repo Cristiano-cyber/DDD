@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\aurora-api-project-master",
+    "\\aurora-api-project-master\\Aurora.Application\\Controllers",
+    "\\aurora-api-project-master\\Aurora.Domain\\Interfaces",
+    "\\aurora-api-project-master\\Aurora.Domain\\ValueTypes",
+    "\\aurora-api-project-master\\Infra.Shared\\Contexts",
+    "\\aurora-api-project-master\\Infra.Shared\\Extensions"
+  ],
+  "SelectedNode": "\\aurora-api-project-master",
+  "PreviewInSolutionExplorer": false
+}
